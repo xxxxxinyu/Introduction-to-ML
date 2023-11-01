@@ -7,4 +7,4 @@
 - Use CE (Cross-Entropy) as your loss function.
 
 ### Fisher’s Linear Discriminant
-Implement FLD to reduce the dimension of the data from 2-dimensional to 1-dimensional.
+- Implement FLD to reduce the dimension of the data from 2-dimensional to 1-dimensional.
